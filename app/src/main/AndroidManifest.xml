@@ -9,7 +9,10 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.MiRepos">
-        <activity android:name=".MainActivity">
+        <activity
+            android:label="@string/add_repo_content"
+            android:name=".ui.AddRepoActivity" />
+        <activity android:name=".ui.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
