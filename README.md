@@ -47,6 +47,8 @@ You must be aware of
 
 - [Room Database](https://developer.android.com/topic/libraries/architecture/room)
 
+- [Databinding](https://developer.android.com/topic/libraries/data-binding)
+
 - Lifecycle ([LiveData](https://developer.android.com/topic/libraries/architecture/livedata) and [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel))
 
 - [Architecture Components](https://developer.android.com/topic/libraries/architecture)
