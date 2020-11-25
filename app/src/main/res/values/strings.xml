@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">MiRepos</string>
+    <string name="add_repo_content">Adicionar novo repositório</string>
+    <string name="search_repo">Pesquise um repositório</string>
+    <string name="cancel">Cancelar</string>
+    <string name="add">Adicionar</string>
+    <string name="refresh">Recarregar</string>
 </resources>
